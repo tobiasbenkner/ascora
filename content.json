@@ -1,0 +1,124 @@
+{
+    "phone": "928 35 52 08",
+    "schedule": "lun-vie 9:00 - 15:00",
+    "email": "info@ascora.es",
+    "i18n": {
+        "navigation": {
+            "home": "Inicio",
+            "services": "Servicios",
+            "about": "Sobre Nosotros",
+            "location": "Localización"
+        },
+        "footer": {
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "pages": {
+                "title": "Páginas adicionales",
+                "privacy": "Privacy",
+                "cookies": "Cookies"
+
+            }
+        },
+        "inicio": [
+            {
+                "title_green": "ACCESIBLES Y CERCANOS",
+                "title": "ACCESIBLES Y CERCANOS",
+                "description": "Te ayudamos a conseguir tus metas y objetivos empresariales, sin necesidad de desplazamientos. Contacta con tu asesor a través de WhatsApp, correo electrónico, Telegram, llamando por teléfono, a través de esta página web o puedes venir a vernos a nuestras oficinas. Nos adaptamos a tus necesidades."
+            },
+            {
+                "title_green": "asasdfdd",
+                "title": "HAZ REALIDAD TUS SUEÑOS",
+                "description": "El mejor servicio de asesoramiento fiscal al mejor precio. Tenemos el asesor fiscal que necesitas para ayudarte a hacer realidad tu sueño empresarial. Nuestro objetivo es conseguir que la fiscalidad y contabilidad no ocupen tu tiempo, para que puedas sacar adelante tu proyecto empresarial sin necesidad de preocupaciones."
+            },
+            {
+                "title_green": "fff",
+                "title": "CONFIANZA",
+                "description": "Nos comprometemos a luchar día a día por tus intereses, ayudándote a reducir tu carga fiscal, optimizando las áreas de tu negocio que se puedan mejorar y resolviendo los problemas que te surjan con pasión y eficacia. Muchas empresas ya confían en nosotros ¿Quieres ser una de ellas?"
+            },
+            {
+                "title_green": "asdasd",
+                "title": "TRANSPARENCIA",
+                "description": "Siempre con la confianza y la cercanía que nos caracteriza, queremos hacerte fácil lo difícil. Tendrás siempre a disposición toda la información que necesites y la atención que mereces."
+            }
+        ],
+        "call_us": {
+            "title": "Solicite que le llamemos ahora mismo?",
+            "description": "Hablamos Español, Ingles y Aleman"
+        },
+        "services": {
+            "title": "SERVICIOS DE <em>SERVICIOS FISCALES</em>",
+            "subtitle": "Los <b>SERVICIOS FISCALES</b> que nuestra empresa ofrece desde sus sedes en Gran Canaria y Fuerteventura son los siguientes",
+            "items": [
+                {
+                    "title": "ASESORAMIENTO GENERAL",
+                    "description": [
+                        "En creación de empresas y desarrollo de las mismas",
+                        "En resolución de conflictos durante el desarrollo de la actividad",
+                        "Planes de mejora o de crecimiento",
+                        "Recomendaciones y revisiones de los proyectos de negocio y su plan de viabilidad"
+                    ]
+                },
+                {
+                    "title": "ASESORAMIENTO FISCAL PERSONALIZADO",
+                    "description": [
+                        "Sobre las obligaciones tributarias según tu modelo de negocio",
+                        "Resolución de consultas fiscales"
+                    ]
+                },
+                {
+                    "title": "GESTION FISCAL (Agencia Tributaria y Consejería de Economía y Hacienda)",
+                    "description": [
+                        "Elaboración y presentación de los diferentes modelos fiscales",
+                        "Elaboración de recursos en caso de discordancias con la administración",
+                        "Comunicación interna o elaboración de otros documentos con la administración"
+                    ]
+                },
+                {
+                    "title": "CONTABILIDAD FISCAL Y CUENTAS ANUALES (Registro Mercantil y Administraciones Públicas)",
+                    "description": [
+                        "ALTAS de Empresas",
+                        "CIERRE de Empresas, liquidaciones y autoliquidaciones"
+                    ]
+                }
+                
+            ],
+            "title2": "SERVICIOS DE <em>ASESORÍA LABORAL",
+            "description2": "Los <b>SERVICIOS DE ASESORÍA LABORAL</b> mantienen la eficiencia y el esmero que nos caracteriza, entre ellos se encuentran los siguientes",
+            "items2": [
+                "CONFECCIÓN DE LAS NOMINAS Y CONTRATOS DE TRABAJO",
+                "CONFECCIÓN DE LOS SEGUROS SOCIALES (denominados TC1/ TC2)",
+                "DEFENSA EN EL SEMAC DE LA EMPRESA ANTE LAS DIFERENCIAS CON TRABAJADORES",
+                "CONFECCIÓN DE MODELOS DE RETENCIONES DE IRPF",
+                "ASISTENCIA LABORAL A EXTRANJEROS",
+                "SEGURIDAD LABORAL"
+            ],
+            "section_title": "ASESORAMIENTO <em>PERSONALIZADO</em>",
+            "section_description": "<p>Ofrecemos a empresas de todo tipo las pautas y consejos para adaptarse mejor a la normativa tributaria vigente. Nuestras tarifas de asesoría son muy competitivas, puede llamar sin compromiso y nuestro asesor fiscal le hará un estudio sobre su situación fiscal personalizada.</p><p>Podemos ayudarle con sus cuentas de empresa, la declaración de ingresos y gastos para cumplir sus obligaciones frente a la Administración Pública.</p><p>Para ofrecer el mejor servicio de asesoría fiscal contamos con un equipo de colaboradores formado por laborales, contables y economistas y que le ofrecerá una visión global y no sólo fiscal. Resolvemos y solucionamos sus dudas fiscales desde un enfoque personalizado de su empresa y en varios idiomas. </p><p>Además, nuestros especialistas en gestión fiscal y de impuestos le ayudarán a cumplir con la última normativa vigente, encontrar oportunidades para su negocio en aras de ahorrar impuestos, adaptando sus condiciones personales o analizando la situación tributaria del entorno empresarial de su sector.</p><p>¿Qué nos diferencia de otras asesorías fiscales? Nuestra cercanía y accesibilidad nos ha hecho ganarnos la confianza de nuestros clientes, pero nuestra perseverancia por la mejora continua, la actualización constante en legislación fiscal y la formación del equipo para estar siempre adaptados a las normativas vigentes y que todos nuestros clientes estén al día con sus obligaciones y dispongan de los mejores recursos de asesoramiento, ha hecho que el negocio sigo creciendo y mejorando cada día. </p><p>Estamos seguros de poder ofrecerle el mejor servicio de asesoramiento fiscal con el asesor fiscal que necesitas.</p>"
+        },
+        "about_us": {
+            "title": "SOBRE NOSOTROS",
+            "section_1_title": "La empresa",
+            "section_1_description": "<p>Abiertos desde 1990 somos una empresa consolidada con más de 30 años de experiencia en el sector. Empresa familiar que guarda su esencia, profesionalidad y compromiso con el cliente, para seguir apostando por cada empresario que quiera hacer su sueño empresarial realidad con la tranquilidad de que sus obligaciones fiscales estén siempre al día.</p><p>Con una notable presencia desde sus inicios en la isla de fuerteventura, especialmente en la zona de Costa Calma. Nos hemos ido adaptando a diferentes modelos de negocio y a clientes de distintas nacionalidades, estando siempre a la vanguardia de la información fiscal y de la legislación vigente, para ofrecer el mejor servicio y la atención personalizada que cada cliente requiere.</p>",
+            "section_2_title": "Nuestro Equipo",
+            "section_2_description": "<p>Nuestra gran familia está formada por profesionales que llevan más de 20 años de dedicación y entrega, generando cercanía, confianza y buen ambiente en nuestras oficinas.</p><p>Nuestro equipo está formado por economistas, contables, laborales y asesores fiscales con una amplia experiencia profesional, cercanos, comprometidos y en formación continua. Para aportar siempre el mejor asesoramiento a nuestros clientes.</p>"
+        },
+        "location": {
+            "title": "Localización",
+            "location_1_title": "SEDE EN GRAN CANARIA",
+            "location_1_street": "Calle Las Canteras del Fondillo, 39",
+            "location_1_cp": "35017",
+            "location_1_city": "Las Palmas de Gran Canaria",
+            "location_1_1": "Tfnos.: 928 35 39 07 y 928 35 52 08",
+            "location_1_2": "Fax: 928 35 14 17",
+            "location_1_3": "Horario: De Lunes a Viernes: 9.00 a 15.00 horas",
+
+            "location_2_title": "SEDE EN FUERTEVENTURA",
+            "location_2_street": "C/Parábola, s/n. Urbanización Parque Sol, local 1",
+            "location_2_cp": "35627",
+            "location_2_city": "Pájara",
+            "location_2_1": "Telf. 928 54 73 30",
+            "location_2_2": "Móvil. 619 87 84 70",
+            "location_2_3": "Horario: De Lunes a Viernes: 9.00 a 15.00 horas"
+        }
+    }
+
+}
