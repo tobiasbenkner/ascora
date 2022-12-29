@@ -10,7 +10,7 @@
             "location": "Localización"
         },
         "footer": {
-            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "text": "...",
             "pages": {
                 "title": "Páginas adicionales",
                 "privacy": "Privacy",
@@ -25,17 +25,17 @@
                 "description": "Te ayudamos a conseguir tus metas y objetivos empresariales, sin necesidad de desplazamientos. Contacta con tu asesor a través de WhatsApp, correo electrónico, Telegram, llamando por teléfono, a través de esta página web o puedes venir a vernos a nuestras oficinas. Nos adaptamos a tus necesidades."
             },
             {
-                "title_green": "asasdfdd",
+                "title_green": "HAZ REALIDAD TUS SUEÑOS",
                 "title": "HAZ REALIDAD TUS SUEÑOS",
                 "description": "El mejor servicio de asesoramiento fiscal al mejor precio. Tenemos el asesor fiscal que necesitas para ayudarte a hacer realidad tu sueño empresarial. Nuestro objetivo es conseguir que la fiscalidad y contabilidad no ocupen tu tiempo, para que puedas sacar adelante tu proyecto empresarial sin necesidad de preocupaciones."
             },
             {
-                "title_green": "fff",
+                "title_green": "CONFIANZA",
                 "title": "CONFIANZA",
                 "description": "Nos comprometemos a luchar día a día por tus intereses, ayudándote a reducir tu carga fiscal, optimizando las áreas de tu negocio que se puedan mejorar y resolviendo los problemas que te surjan con pasión y eficacia. Muchas empresas ya confían en nosotros ¿Quieres ser una de ellas?"
             },
             {
-                "title_green": "asdasd",
+                "title_green": "TRANSPARENCIA",
                 "title": "TRANSPARENCIA",
                 "description": "Siempre con la confianza y la cercanía que nos caracteriza, queremos hacerte fácil lo difícil. Tendrás siempre a disposición toda la información que necesites y la atención que mereces."
             }
